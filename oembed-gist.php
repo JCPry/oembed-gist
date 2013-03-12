@@ -33,8 +33,6 @@ Modified August 18, 2011 by Alex King (alexking.org) to add NOSCRIPT and i18n su
 
 */
 
-new gist();
-
 class gist {
 
 private $noscript;
@@ -142,4 +140,4 @@ public function footer_github(){
 }
 
 
-// EOF
+new gist();
